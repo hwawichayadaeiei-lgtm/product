@@ -1,9 +1,0 @@
-{
-  "/_global-error/page": "/_global-error",
-  "/_not-found/page": "/_not-found",
-  "/api/auth/[...nextauth]/route": "/api/auth/[...nextauth]",
-  "/page": "/",
-  "/products/[id]/delete/page": "/products/[id]/delete",
-  "/products/[id]/edit/page": "/products/[id]/edit",
-  "/products/page": "/products"
-}
